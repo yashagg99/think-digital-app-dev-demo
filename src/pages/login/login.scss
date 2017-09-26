@@ -1,0 +1,31 @@
+.ios, .md {
+ 
+  page-login {
+
+    ion-content {
+
+      background: url('../img/images.jfif');
+      background-size: cover;
+    }
+
+      ion-row {
+        align-items: center;
+        text-align: center;
+      }
+ 
+      ion-item {
+          border-radius: 30px !important;
+          padding-left: 10px !important;
+          margin-bottom: 10px;
+          background-color: #f6f6f6;
+          opacity: 0.7;
+          font-size: 0.9em;
+      }
+ 
+      ion-list {
+          margin: 0;
+      }
+ 
+  }
+ 
+}
